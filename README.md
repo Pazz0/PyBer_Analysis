@@ -12,6 +12,7 @@ We were able to organise the data by each city type and compare their sets of da
 We see Rural have a small amount while Urban is large!
 
 We were also able to write scripts that could calculate the average fare per ride for each city type:
+
 <img width="188" alt="Screen Shot 2023-01-12 at 10 13 47 PM" src="https://user-images.githubusercontent.com/18335464/212228937-f25c074e-5934-4ca7-87c6-e05bd4a6ac9f.png">
 
 
@@ -22,6 +23,7 @@ As well as the average fare per driver for each city type:
 We can see Rural has a higher average fare while Urban fares are quite cheaper!
 
 We also created a DataFrame to showcase the summary of findings:
+
 <img width="592" alt="Screen Shot 2023-01-12 at 10 18 29 PM" src="https://user-images.githubusercontent.com/18335464/212229663-1d0e7838-f5e5-4ab6-9e04-a32a690b716d.png">
 
 We were able to use Matplotlib to create a plot to showcase the Total Fares by City type for a sample of a few months to visually represent the patterns of data:
